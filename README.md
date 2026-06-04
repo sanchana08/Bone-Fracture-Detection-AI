@@ -38,14 +38,16 @@ The goal of this project is to build a model that can assist in identifying frac
    
 ## Results
 
-* Training Accuracy: XX%
-* Validation Accuracy: XX%
+* Training Accuracy: 90%
+* Validation Accuracy: 81%
+* Testing Accuracy: 81.2%
   
 The model performs well on clear fracture cases, with some limitations in borderline cases.
 
 ## Sample Output
 
-(Add screenshots of your graphs or prediction results here)
+<img width="2546" height="1400" alt="fig5_gradcam (1)" src="https://github.com/user-attachments/assets/96e9d695-7ef6-472e-a4d3-3645b1812f42" />
+
 
 ## Notes
 
